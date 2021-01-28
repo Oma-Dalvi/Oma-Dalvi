@@ -8,3 +8,5 @@
 - 📫 How to reach me: LINKEDIN: https://www.linkedin.com/in/omkar-dalvi-b9a9261a0/, EMAIL: Omkardalvi1306@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Gaming
+
+![Oma-Dalvi github stats](https://github-readme-stats.vercel.app/api?username=Oma-Dalvi&show_icons=true&hide_border=true)
