@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on real world projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Data Science
-- 📫 How to reach me: LINKEDIN: https://www.linkedin.com/in/omkardalvi-b9a9261a0, EMAIL: Omkardalvi1306@gmail.com
+- 📫 How to reach me: LINKEDIN: https://www.linkedin.com/in/omkar-dalvi-b9a9261a0/, EMAIL: Omkardalvi1306@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Gaming
 -->
